@@ -50,3 +50,7 @@ main {
     font-weight: bold;
     margin-bottom: 20px;
 }
+
+.hide {
+    display:none
+}
