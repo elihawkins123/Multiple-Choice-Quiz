@@ -22,3 +22,6 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
+
+![image](https://github.com/elihawkins123/Multiple-Choice-Quiz/assets/135794159/122f0206-5bb6-4a6a-b560-984062716e08)
+
